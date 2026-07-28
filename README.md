@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi, I'm Víctor Urrutia
 
-<!--
-**holahaikuflow/holahaikuflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Product Engineer building AI-powered products from idea to production.
 
-Here are some ideas to get you started:
+I design and build AI-powered applications that combine software engineering, product thinking, and large language models to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on building production-ready products with Python, TypeScript, React, Next.js, and modern cloud technologies.
+
+Featured Projects
+BookFindería
+
+An AI-powered platform that helps readers discover books through personalized recommendations.
+
+HaikuFlow
+
+Building modern AI-powered products with a strong focus on quality, simplicity, and long-term maintainability.
+
+Current Focus
+
+AI Product Engineering
+LLM Applications
+Software Architecture
+Product Development
+Backend Engineering
+Tech Stack
+Python
+TypeScript
+React
+Next.js
+Supabase
+PostgreSQL
+Docker
+Git
+OpenAI API
+Engineering Principles
+Build products, not demos.
+Keep systems simple and maintainable.
+Prioritize user value over unnecessary complexity.
+Learn by building real-world software.
+
+Connect
+🌐 https://haikuflow.com
+💼 https://linkedin.com/in/victorurrutiacisterna
