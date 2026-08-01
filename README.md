@@ -74,6 +74,27 @@ The project included:
 
 ---
 
+### AI Lead Qualification API
+
+A production-style FastAPI service that converts validated real-estate purchase signals into deterministic and auditable lead classifications.
+
+The API includes:
+
+- Strict request validation with Pydantic
+- Decimal-based budget and property-price comparison
+- Cold, warm, and hot lead classifications
+- Structured reason codes, messages, and awarded points
+- 62 automated tests
+- Continuous integration across Python 3.11, 3.12, and 3.13
+- Public deployment on Render
+- Interactive OpenAPI documentation
+
+**Stack:** Python, FastAPI, Pydantic, pytest, GitHub Actions, Render
+
+[View the repository](https://github.com/holahaikuflow/ai-lead-qualification-api) · [Try the live API](https://ai-lead-qualification-api.onrender.com/docs) · [View release v0.2.0](https://github.com/holahaikuflow/ai-lead-qualification-api/releases/tag/v0.2.0)
+
+---
+
 ### BookFindería
 
 A literary recommendation platform that helps readers discover books based on their interests, personality, and reading preferences.
