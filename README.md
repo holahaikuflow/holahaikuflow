@@ -91,4 +91,6 @@ Portuguese — Conversational
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/victorurrutiacisterna) · [HaikuFlow](https://haikuflow.com) · [BookFindería](https://bookfinderia.cl)
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/victorurrutiacisterna) · [HaikuFlow](https://haikuflow.com) · [BookFindería](https://bookfinderia.cl) · [Email](mailto:hola@haikuflow.com)
