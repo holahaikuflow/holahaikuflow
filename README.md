@@ -1,43 +1,94 @@
-Hi, I'm Víctor Urrutia
+# Hi, I'm Víctor Urrutia
 
-AI Product Engineer building AI-powered products from idea to production.
+**AI Product Engineer building useful products from problem definition to production.**
 
-I design and build AI-powered applications that combine software engineering, product thinking, and large language models to solve real-world problems.
+I am a self-directed product engineer and founder based in Chile. I work across product strategy, UX, software architecture, frontend development, databases, deployment, and production verification.
 
-Currently focused on building production-ready products with Python, TypeScript, React, Next.js, and modern cloud technologies.
+My strongest work is BookFindería Escuela, a production B2B platform built for Chilean high schools.
 
-Featured Projects
-BookFindería
+## Selected work
 
-An AI-powered platform that helps readers discover books through personalized recommendations.
+### BookFindería Escuela
 
-HaikuFlow
+A reading engagement platform that helps students discover suitable books and gives teachers visibility into reading choices and progress.
 
-Building modern AI-powered products with a strong focus on quality, simplicity, and long-term maintainability.
+As the sole founder and product engineer, I designed and built:
 
-Current Focus
+- Anonymous student onboarding through QR codes
+- A six-question book recommendation engine
+- Separate student, teacher, and administration workflows
+- Teacher dashboards and reading-progress tracking
+- Educational book guides and assessment tools
+- PostgreSQL data modeling and Row Level Security
+- Privacy-by-design architecture for student data
+- Production deployment and verification processes
 
-AI Product Engineering
-LLM Applications
-Software Architecture
-Product Development
-Backend Engineering
-Tech Stack
-Python
-TypeScript
-React
-Next.js
-Supabase
-PostgreSQL
-Docker
-Git
-OpenAI API
-Engineering Principles
-Build products, not demos.
-Keep systems simple and maintainable.
-Prioritize user value over unnecessary complexity.
-Learn by building real-world software.
+**Stack:** React, TypeScript, Vite, Tailwind CSS, Supabase, PostgreSQL, Row Level Security, Cloudflare Pages
 
-Connect
-🌐 https://haikuflow.com
-💼 https://linkedin.com/in/victorurrutiacisterna
+[View BookFindería Escuela](https://bookfinderia.cl/escuela)
+
+> The production repository is private because it contains commercial code and internal product documentation. A public technical case study is being prepared.
+
+---
+
+### BookFindería
+
+An AI-assisted literary recommendation platform that helps readers discover books based on their interests, personality, and reading preferences.
+
+[Visit BookFindería](https://bookfinderia.cl)
+
+---
+
+### HaikuFlow
+
+An independent product studio focused on building useful digital products for founders and businesses.
+
+[Visit HaikuFlow](https://haikuflow.com)
+
+## How I work
+
+I use Claude Code, Cursor, and ChatGPT as part of my engineering workflow to investigate problems, compare solutions, and accelerate implementation.
+
+I remain responsible for:
+
+- Architecture and technical decisions
+- Product scope and UX
+- Code review and validation
+- Testing and production verification
+- Deployment approval and releases
+
+I treat AI coding agents as engineering collaborators, not as substitutes for technical judgment.
+
+## Core technologies
+
+- React
+- TypeScript
+- JavaScript
+- Vite
+- Tailwind CSS
+- Supabase
+- PostgreSQL
+- Row Level Security
+- Cloudflare
+- Git and GitHub
+- Docker
+- LLM-assisted development workflows
+
+## Currently strengthening
+
+- Python backend development
+- API design
+- Automated testing
+- Software architecture
+- AI-native product engineering
+
+## Languages
+
+Spanish — Native  
+French — Full professional proficiency  
+English — B2 professional working proficiency  
+Portuguese — Conversational
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/victorurrutiacisterna) · [HaikuFlow](https://haikuflow.com) · [BookFindería](https://bookfinderia.cl)
