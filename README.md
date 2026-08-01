@@ -45,7 +45,9 @@ I designed and deployed a system that:
 
 **Stack:** Cloudflare Workers, Anthropic Claude API, OpenAI Whisper, Supabase, PostgreSQL, React, TypeScript, Resend, WhatsApp Cloud API
 
-> A public technical case study is currently being prepared. The production code remains private.
+[Read the technical case study](https://github.com/holahaikuflow/sdm-ai-lead-system-case-study)
+
+> The production repository remains private because it contains commercial code, credentials, and internal operational details.
 
 ---
 
