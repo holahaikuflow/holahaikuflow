@@ -51,6 +51,29 @@ I designed and deployed a system that:
 
 ---
 
+### Immo Paraguay Infrastructure Case Study
+
+A multilingual real-estate platform and infrastructure migration that combined product engineering, cloud architecture, media optimization, and cost reduction.
+
+The project included:
+
+- A production property platform in five languages
+- A custom administration panel
+- Supabase and PostgreSQL data workflows
+- Google OAuth and Row Level Security
+- Migration of more than 190 images from Supabase Storage to Cloudflare R2
+- Python automation for asset migration and compression
+- Hosting migration from Netlify to Cloudflare Pages
+- A documented infrastructure cost reduction from approximately USD 34/month to USD 0 at the recorded usage level
+
+**Stack:** React, TypeScript, Vite, Supabase, PostgreSQL, Cloudflare Pages, Cloudflare R2, Python, boto3, requests, Pillow
+
+[Read the technical case study](https://github.com/holahaikuflow/immo-paraguay-infrastructure-case-study)
+
+> The production repository remains private because it contains commercial code, infrastructure configuration, and internal operational details.
+
+---
+
 ### BookFindería
 
 A literary recommendation platform that helps readers discover books based on their interests, personality, and reading preferences.
