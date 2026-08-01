@@ -25,9 +25,11 @@ As the sole founder and product engineer, I designed and built:
 
 **Stack:** React, TypeScript, Vite, Tailwind CSS, Supabase, PostgreSQL, Row Level Security, Cloudflare Pages
 
-[View BookFindería Escuela](https://bookfinderia.cl/escuela)
+[View the live product](https://bookfinderia.cl/escuela) · [Read the technical case study](https://github.com/holahaikuflow/bookfinderia-escuela-case-study)
 
-> The production repository is private because it contains commercial code and internal product documentation. A public technical case study is being prepared.
+> The production repository is private because it contains commercial code and internal product documentation.
+
+[Read the public technical case study](https://github.com/holahaikuflow/bookfinderia-escuela-case-study)
 
 ---
 
