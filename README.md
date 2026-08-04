@@ -167,3 +167,13 @@ I am currently looking for remote international opportunities as an:
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/victorurrutiacisterna) · [HaikuFlow](https://haikuflow.com) · [BookFindería](https://bookfinderia.cl) · [Email](mailto:hola@haikuflow.com)
+
+
+## Selected Publications
+
+Alongside building software products, I have published four books in Chile. This work reflects long-term project execution, editorial collaboration and written communication.
+
+- [*El último viernes*](https://www.libreriadelgam.cl/libro/ultimo-viernes-el_82469) — Novel, Editorial Viuda Negra
+- [*Frutos del desierto*](https://www.astroeditora.cl/producto/frutos-del-desierto/) — Astro Editora
+- [*Milagro en la selva*](https://www.astroeditora.cl/producto/milagro-en-la-selva/) — Astro Editora
+- [*Poemas de Atrapama*](https://www.astroeditora.cl/producto/poemas-de-atrapama/) — Poetry, Astro Editora
