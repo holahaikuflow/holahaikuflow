@@ -29,26 +29,27 @@ As founder and sole product engineer, I designed and built:
 
 ---
 
-### SDM Capital AI Lead System
+### Sofía AI Assistant
 
-A production AI-powered lead acquisition and qualification system integrated with WhatsApp Cloud API.
+A production conversational AI and automation system for real-estate lead qualification over WhatsApp.
 
-I designed and deployed a system that:
+I designed and evolved a system that:
 
-- Handles customer conversations 24/7
+- Handles real customer conversations through WhatsApp Cloud API
 - Queries live property inventory
 - Transcribes voice messages with OpenAI Whisper
-- Extracts structured lead information
-- Scores and routes prospects
-- Schedules visits and sends operational alerts
-- Supports human takeover through a React administration panel
+- Uses structured LLM tool contracts and runtime validation
+- Serializes message processing per lead to prevent race conditions
+- Applies idempotency protections for repeated webhook deliveries
+- Moves critical qualification decisions toward deterministic business rules
+- Tracks production errors, latency, token usage, cache behavior, and degraded results
+- Supports human takeover through an administrative interface
 
-**Stack:** Cloudflare Workers, Anthropic Claude API, OpenAI Whisper, Supabase, PostgreSQL, React, TypeScript, Resend, WhatsApp Cloud API
+**Stack:** Cloudflare Workers, JavaScript, Anthropic Claude API, OpenAI Whisper, Supabase, PostgreSQL, React, TypeScript, Resend, WhatsApp Cloud API
 
-[Read the technical case study](https://github.com/holahaikuflow/sdm-ai-lead-system-case-study)
+[Read the technical case study](https://github.com/holahaikuflow/sofia-ai-assistant-case-study)
 
-> The production repository remains private because it contains commercial code, credentials, and internal operational details.
-
+> The production repository remains private because it contains commercial code, customer data, credentials, private prompts, and internal operational configuration.
 ---
 
 ### Immo Paraguay Infrastructure Case Study
