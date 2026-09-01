@@ -6,29 +6,6 @@ I am a product engineer and founder based in Chile. I work across product strate
 
 ## Selected work
 
-### BookFindería Escuela
-
-A production B2B reading platform for Chilean high schools.
-
-As founder and sole product engineer, I designed and built:
-
-- Anonymous student onboarding through QR codes
-- A six-question recommendation engine connected to a curated catalog
-- Separate student, teacher, and administration workflows
-- Teacher dashboards and reading-progress tracking
-- Educational book guides and assessment tools
-- PostgreSQL data modeling and Row Level Security
-- Privacy-by-design architecture for student data
-- Production deployment and verification processes
-
-**Stack:** React, TypeScript, Vite, Tailwind CSS, Supabase, PostgreSQL, Row Level Security, Cloudflare Pages
-
-[View the live product](https://bookfinderia.cl/escuela) · [Read the technical case study](https://github.com/holahaikuflow/bookfinderia-escuela-case-study)
-
-> The production repository is private because it contains commercial code and internal product documentation.
-
----
-
 ### Sofía AI Assistant
 
 A production conversational AI and automation system for real-estate lead qualification over WhatsApp.
