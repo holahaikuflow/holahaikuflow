@@ -1,10 +1,58 @@
 # Hi, I'm Víctor Urrutia
 
-**AI Product Engineer building production systems that connect artificial intelligence, software engineering, product design, data, and real business operations.**
+**Technical founder and AI Product Engineer building production software end-to-end.**
 
-I am a product engineer and founder based in Chile. I work across product strategy, UX, system architecture, frontend development, databases, API integrations, deployment, and production verification.
+Founder & CEO of **BookFindería Escuela**, an EdTech platform helping schools connect students with books they are more likely to want to read and can actually access.
 
-## Selected work
+I work across product strategy, UX, frontend, backend, databases, AI workflows, infrastructure, testing, and deployment.
+
+BookFindería Escuela is currently running pilots with **two schools in Chile**.
+
+## Selected Work
+
+### BookFindería Escuela
+
+A B2B EdTech platform for Chilean schools focused on reading engagement and personalized book discovery.
+
+As founder and sole product engineer, I designed and built:
+
+- Anonymous student onboarding through QR codes
+- Interest-based personalized book recommendations
+- Separate student, teacher, and administration workflows
+- Teacher dashboards and reading-progress tracking
+- Educational book guides and assessment tools
+- PostgreSQL data modeling and Row Level Security
+- Privacy-by-design architecture for student data
+- Production deployment and verification workflows
+
+**Stack:** React, TypeScript, Vite, Tailwind CSS, Supabase, PostgreSQL, Row Level Security, Cloudflare Pages
+
+**Status:** Deployed and currently running pilots with two schools in Chile.
+
+[View the live product](https://bookfinderia.cl/escuela) · [Read the technical case study](https://github.com/holahaikuflow/bookfinderia-escuela-case-study)
+
+> The production repository is private because it contains commercial code, internal documentation, and shared infrastructure.
+
+---
+
+### Desglose AI
+
+An AI-assisted platform for public procurement planning in Chile.
+
+Desglose transforms an institutional purchasing need into structured requirements — items, quantities, and specifications — and is being developed to support budget decisions using comparable public procurement data.
+
+The product combines:
+
+- AI-assisted requirement generation
+- Structured purchasing specifications
+- Public procurement data workflows
+- Comparable purchase analysis
+- Human review before final output
+- Exportable procurement documentation
+
+The engineering focus is on turning unstructured institutional needs into traceable, reviewable, and operational purchasing requirements.
+
+---
 
 ### Sofía AI Assistant
 
@@ -27,11 +75,12 @@ I designed and evolved a system that:
 [Read the technical case study](https://github.com/holahaikuflow/sofia-ai-assistant-case-study)
 
 > The production repository remains private because it contains commercial code, customer data, credentials, private prompts, and internal operational configuration.
+
 ---
 
 ### Immo Paraguay Infrastructure Case Study
 
-A multilingual real-estate platform and infrastructure migration that combined product engineering, cloud architecture, media optimization, and cost reduction.
+A multilingual real-estate platform and infrastructure migration combining product engineering, cloud architecture, media optimization, and cost reduction.
 
 The project included:
 
@@ -42,7 +91,7 @@ The project included:
 - Migration of more than 190 images from Supabase Storage to Cloudflare R2
 - Python automation for asset migration and compression
 - Hosting migration from Netlify to Cloudflare Pages
-- A documented infrastructure cost reduction from approximately USD 34/month to USD 0 at the recorded usage level
+- Infrastructure cost reduction from approximately USD 34/month to USD 0 at the recorded usage level
 
 **Stack:** React, TypeScript, Vite, Supabase, PostgreSQL, Cloudflare Pages, Cloudflare R2, Python, boto3, requests, Pillow
 
@@ -71,87 +120,63 @@ The API includes:
 
 [View the repository](https://github.com/holahaikuflow/ai-lead-qualification-api) · [Try the live API](https://ai-lead-qualification-api.onrender.com/docs) · [View release v0.2.0](https://github.com/holahaikuflow/ai-lead-qualification-api/releases/tag/v0.2.0)
 
----
+## Engineering Approach
 
-### BookFindería
+I build products from problem definition through production operation.
 
-A literary recommendation platform that helps readers discover books based on their interests, personality, and reading preferences.
+My work typically spans:
 
-[Visit BookFindería](https://bookfinderia.cl)
-
----
-
-### HaikuFlow
-
-An independent product studio focused on building useful digital products for education, real estate, tourism, and community services.
-
-[Visit HaikuFlow](https://haikuflow.com)
-
-## How I work
-
-I use Claude Code, Cursor, and ChatGPT as part of my daily engineering workflow to investigate problems, compare alternatives, implement changes, and document systems.
-
-These tools accelerate investigation and implementation, while I remain responsible for:
-
-- Architecture and technical decisions
-- Product scope and UX
-- Security and data-access decisions
-- Code review and validation
+- Product discovery and scope
+- UX and interface design
+- Frontend and backend implementation
+- API and third-party integrations
+- PostgreSQL data modeling
+- Authentication and authorization
+- LLM workflows and structured AI outputs
 - Testing and production verification
-- Deployment approval and releases
+- Cloud infrastructure and deployment
+- Reliability, observability, and debugging
 
-I treat AI coding agents as engineering collaborators, not as substitutes for technical judgment.
+I use AI coding tools such as Claude Code, Cursor, and ChatGPT as part of my engineering workflow for investigation, implementation, testing, and documentation.
 
-## Core technologies
+Architecture, product scope, security decisions, validation, and production deployment remain human-controlled.
 
+## Core Technologies
+
+- TypeScript / JavaScript
 - React
-- TypeScript
-- JavaScript
-- Vite
-- Tailwind CSS
-- Supabase
+- Python
+- FastAPI
 - PostgreSQL
-- Row Level Security
+- Supabase
+- REST APIs and webhooks
 - Cloudflare Pages and Workers
+- Docker
 - Git and GitHub
 - LLM APIs
-- WhatsApp Cloud API
-
-## Currently strengthening
-
-- Python backend development
-- API design
-- Automated testing
-- Software architecture
-- AI-native product engineering
+- Structured LLM outputs and tool use
+- AI automation workflows
 
 ## Languages
 
-Spanish — Native  
-French — C2 / Full professional proficiency  
-English — B2 professional working proficiency  
-Portuguese — Conversational
+- Spanish — Native
+- French — C2 / Full professional proficiency
+- English — B2 professional working proficiency
+- Portuguese — Conversational
 
-## Current goal
+## Beyond Software
 
-I am currently looking for remote international opportunities as an:
+Alongside building software products, I have published four books in Chile.
 
-- AI Product Engineer
-- Applied AI Engineer
-- Product Engineer
-- AI Solutions Engineer
-- AI-native Software Engineer
+Writing has given me another form of long-term product execution: developing complex ideas, working through editorial processes, communicating clearly, and finishing multi-year creative projects.
 
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/victorurrutiacisterna) · [HaikuFlow](https://haikuflow.com) · [BookFindería](https://bookfinderia.cl) · [Email](mailto:hola@haikuflow.com)
-
-
-## Selected Publications
-
-Alongside building software products, I have published four books in Chile. This work reflects long-term project execution, editorial collaboration and written communication.
+### Selected Publications
 
 - [*El último viernes*](https://www.libreriadelgam.cl/libro/ultimo-viernes-el_82469) — Novel, Editorial Viuda Negra
 - [*Frutos del desierto*](https://www.astroeditora.cl/producto/frutos-del-desierto/) — Astro Editora
 - [*Milagro en la selva*](https://www.astroeditora.cl/producto/milagro-en-la-selva/) — Astro Editora
 - [*Poemas de Atrapama*](https://www.astroeditora.cl/producto/poemas-de-atrapama/) — Poetry, Astro Editora
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/victorurrutiacisterna) · [HaikuFlow](https://haikuflow.com) · [BookFindería](https://bookfinderia.cl) · [Email](mailto:hola@haikuflow.com)
