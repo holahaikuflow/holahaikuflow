@@ -39,18 +39,24 @@ As founder and sole product engineer, I designed and built:
 
 An AI-assisted platform for public procurement planning in Chile.
 
-Desglose transforms an institutional purchasing need into structured requirements — items, quantities, and specifications — and is being developed to support budget decisions using comparable public procurement data.
+Desglose transforms institutional purchasing needs into structured requirements — items, quantities, specifications, and supporting procurement references — while keeping a human reviewer in control of the final output.
 
-The product combines:
+The product is being developed around:
 
 - AI-assisted requirement generation
 - Structured purchasing specifications
-- Public procurement data workflows
-- Comparable purchase analysis
+- Comparable public purchases
+- Procurement-data retrieval and ranking
+- Traceable budgeting evidence
 - Human review before final output
-- Exportable procurement documentation
 
-The engineering focus is on turning unstructured institutional needs into traceable, reviewable, and operational purchasing requirements.
+A central engineering challenge is connecting generated requirements with relevant real-world procurement records while keeping source evidence distinct from AI-generated interpretation.
+
+**Status:** Under active development, with current work focused on the **Compras similares** layer and real public procurement evidence.
+
+[Read the technical case study](https://github.com/holahaikuflow/desglose-ai-case-study)
+
+> The public repository documents product and engineering decisions. Proprietary source code, credentials, private infrastructure, and internal operational configuration are intentionally excluded.
 
 ---
 
@@ -151,7 +157,6 @@ Architecture, product scope, security decisions, validation, and production depl
 - Supabase
 - REST APIs and webhooks
 - Cloudflare Pages and Workers
-- Docker
 - Git and GitHub
 - LLM APIs
 - Structured LLM outputs and tool use
@@ -168,7 +173,7 @@ Architecture, product scope, security decisions, validation, and production depl
 
 Alongside building software products, I have published four books in Chile.
 
-Writing has given me another form of long-term product execution: developing complex ideas, working through editorial processes, communicating clearly, and finishing multi-year creative projects.
+Writing has given me another form of long-term project execution: developing complex ideas, working through editorial processes, communicating clearly, and finishing multi-year creative projects.
 
 ### Selected Publications
 
@@ -179,4 +184,4 @@ Writing has given me another form of long-term product execution: developing com
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/victorurrutiacisterna) · [HaikuFlow](https://haikuflow.com) · [BookFindería](https://bookfinderia.cl) · [Email](mailto:hola@haikuflow.com)
+[LinkedIn](https://www.linkedin.com/in/victorurrutiacisterna/) · [HaikuFlow](https://haikuflow.com) · [BookFindería](https://bookfinderia.cl) · [Email](mailto:hola@haikuflow.com)
