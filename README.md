@@ -126,6 +126,13 @@ The API includes:
 
 [View the repository](https://github.com/holahaikuflow/ai-lead-qualification-api) · [Try the live API](https://ai-lead-qualification-api.onrender.com/docs) · [View release v0.2.0](https://github.com/holahaikuflow/ai-lead-qualification-api/releases/tag/v0.2.0)
 
+## Courses & Certifications
+
+- **CS50's Introduction to Programming with Python** · Harvard CS50, 2026 · [View certificate](https://cs50.harvard.edu/certificates/72dfc389-27c7-4545-9d70-9d541fca4ab4)
+
+- **Introducción a la programación en Python I: Aprendiendo a programar con Python** · Pontificia Universidad Católica de Chile (via Coursera), 2022 · [View certificate](https://coursera.org/verify/WGK7MBC6KUXF)
+  
+
 ## Engineering Approach
 
 I build products from problem definition through production operation.
